@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TopM
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TopM\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=m
+comment1.target=TopM(int)
+comment2.params=
+comment2.target=void\ solve()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

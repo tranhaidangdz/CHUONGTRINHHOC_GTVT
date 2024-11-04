@@ -1,0 +1,5 @@
+Tran Hai Dang        01/01/2004    1    Quang Ninh
+Nguyen Phan Hai      01/01/2004    2    Ha Noi
+Dinh Ngoc The        01/01/2004    4    Bac Giang
+Truong Quang Vinh    01/01/2004    5    Bac Giang
+Luong Van Son        01/01/2004    3    Thanh Hoa

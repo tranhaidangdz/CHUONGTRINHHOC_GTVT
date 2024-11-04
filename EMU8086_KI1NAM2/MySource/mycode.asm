@@ -1,0 +1,1 @@
+;nhap 1 xau gom ca chu hoa va chu thuong. tach chu hoa va chu thuong ra 2 xau khac nhau 

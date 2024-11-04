@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=NQueens
+comment0.text=\r\n\ b\u00E0i\ to\u00E1n\ N-Queens\ s\u1EED\ d\u1EE5ng\ thu\u1EADt\ to\u00E1n\ quay\ lui\ (backtracking).\ B\u00E0i\ to\u00E1n\r\n\ N-Queens\ y\u00EAu\ c\u1EA7u\ \u0111\u1EB7t\ N\ qu\u00E2n\ h\u1EADu\ tr\u00EAn\ m\u1ED9t\ b\u00E0n\ c\u1EDD\ N\ x\ N\ sao\ cho\ kh\u00F4ng\ c\u00F3\ hai\r\n\ qu\u00E2n\ h\u1EADu\ n\u00E0o\ \u0111e\ d\u1ECDa\ nhau\ (kh\u00F4ng\ c\u00F9ng\ h\u00E0ng,\ c\u00F9ng\ c\u1ED9t,\ ho\u1EB7c\ c\u00F9ng\ \u0111\u01B0\u1EDDng\ ch\u00E9o).\r\n
+comment1.params=N
+comment1.target=NQueens(int)
+comment2.params=board
+comment2.target=void\ printSolution(int[][])
+comment2.text=\r\n\ int\ board[][]\:\ \u0110\u00E2y\ l\u00E0\ ma\ tr\u1EADn\ 2\ chi\u1EC1u\ k\u00EDch\ th\u01B0\u1EDBc\ N\ x\ N\ \u0111\u1EA1i\ di\u1EC7n\ cho\ b\u00E0n\ c\u1EDD.\r\n\ M\u1ED7i\ ph\u1EA7n\ t\u1EED\ board[i][j]\ c\u00F3\ gi\u00E1\ tr\u1ECB\ 0\ ho\u1EB7c\ 1,\ v\u1EDBi\ 1\ bi\u1EC3u\ th\u1ECB\ r\u1EB1ng\ c\u00F3\ m\u1ED9t\ qu\u00E2n\r\n\ h\u1EADu\ \u0111\u01B0\u1EE3c\ \u0111\u1EB7t\ \u1EDF\ \u00F4\ \u0111\u00F3,\ v\u00E0\ 0\ bi\u1EC3u\ th\u1ECB\ r\u1EB1ng\ \u00F4\ \u0111\u00F3\ tr\u1ED1ng.\r\n
+comment3.params=board\ row\ col
+comment3.target=boolean\ isSafe(int[][],\ int,\ int)
+comment4.params=board\ col
+comment4.target=boolean\ solveNQUtil(int[][],\ int)
+comment4.text=\r\n\ solveNQUtil\ l\u00E0\ m\u1ED9t\ h\u00E0m\ \u0111\u1EC7\ quy\ \u0111\u01B0\u1EE3c\ s\u1EED\ d\u1EE5ng\ \u0111\u1EC3\ gi\u1EA3i\ b\u00E0i\ to\u00E1n\ N-Queen.\ H\u00E0m\ n\u00E0y\r\n\ c\u1ED1\ g\u1EAFng\ \u0111\u1EB7t\ c\u00E1c\ qu\u00E2n\ h\u1EADu\ l\u00EAn\ b\u00E0n\ c\u1EDD\ sao\ cho\ kh\u00F4ng\ qu\u00E2n\ h\u1EADu\ n\u00E0o\ t\u1EA5n\ c\u00F4ng\ qu\u00E2n\r\n\ h\u1EADu\ kh\u00E1c\r\n\ tham\ s\u1ED1\ \u0111\u1EA7u\ v\u00E0o\ l\u00E0\ ma\ tr\u1EADn\ 2\ chi\u1EC1u\ board\ \u0111\u1EA1i\ di\u1EC7n\ cho\ b\u00E0n\ c\u1EDD\ v\u00E0\ s\u1ED1\ nguy\u00EAn\ col\r\n\ \u0111\u1EA1i\ di\u1EC7n\ cho\ c\u1ED9t\ hi\u1EC7n\ t\u1EA1i\ m\u00E0\ ta\ \u0111ang\ c\u1ED1\ g\u1EAFng\ \u0111\u1EB7t\ qu\u00E2n\ h\u1EADu.\r\n\ \r\n\ \r\n
+comment5.params=
+comment5.target=boolean\ solveNQ()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

@@ -1,0 +1,38 @@
+man tenlenh(vi du: rm, ls, mkdir,...): huong dan su dung lenh
+
+cat tenfile: doc file ngan
+more tenfile: doc file dai
+
+mkdir tenthumuc: tao mot thu muc
+rm -rf tenthumuc: xoa mot thu muc
+
+mkdir thumuc1 thumuc2 thumuc3....: tao nhieu thu muc
+rm -rf thumuc1 thumuc2 thumuc3....: xoa nhieu thu muc
+
+vim tenfile: tao mot file trong de soan thao noi dung file
+
+Cac lenh soan thao trong vim:
+	esc + ":q!": thoat va quay lai terminal(chua luu file)
+	esc escape + ":wq!": thoat va luu file
+
+	esc + "i": insert tai vi tri con tro
+	esc + "a": insert sau vi tri con tro
+
+	esc + "d(so tu muon xoa)w": xoa tu tai vi tri con tro(dua con tro ve dau tu 	can xoa)
+	vd d1w, d2w, d3w
+
+	esc + "dd": xoa mot dong
+
+	esc + "yy": copy dong hien tai
+
+	esc + "p": paste len vi tri con tro
+
+	esc + "/" + tu_muon_tim_kiem: 
+	esc + ":set nu" : hien thi so dong
+
+	esc ":8" : chuyen den dong thu 8
+
+cp filenguon filecopy: nhu lenh save as
+
+
+
